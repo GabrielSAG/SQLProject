@@ -1,3 +1,5 @@
+*Perguntas sobre o Banco de Dados:
+
 ✔ Existem outras entidades além dessas três?
 Dado o exemplo do trabalho foi citado só três entidades como cursos, turmas e alunos. Porém pode ser incluidas outras entidades com informações mais detalhadas sobre esse tema.
 
